@@ -1,0 +1,147 @@
+body{
+    width: auto;
+    height: 768px;
+}
+
+.logo{
+    width: 100px;
+    height: 50px;
+}
+
+.options{
+    color: white;
+    padding-right: 30px;
+    display: flex;
+    flex-direction: row;
+}
+
+.menu{
+    background-color: rgb(0, 0, 95);
+    color: white;
+    width: auto;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+
+}
+
+img{
+ width: 300px;
+ height: 400px;
+}
+.infoStar{
+ width: 800px;
+ padding: 50px;
+ color: white;
+}
+.starWarsInfo{
+    background-color: #622122;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+.overview{
+    line-height: 1.2;
+}
+.crewNameTwo{
+    padding-left: 20px;
+}
+.crewName{
+    display: flex;
+    margin: 50 px;
+}
+
+
+.mark{
+  background-color: white; 
+  width: 140px;
+  color: black;
+  padding:20px;
+  margin: 20px;
+  border-radius: 20px;
+  box-shadow: 8px 10px 19px 1px rgba(189, 189, 189, 0.59);
+  display: flex;
+  flex-direction: column;
+}
+
+.carrie{
+    background-color: white; 
+    width: 140px;
+    color: black;
+    padding:20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 8px 10px 19px 1px rgba(189, 189, 189, 0.59);
+    display: flex;
+    flex-direction: column;
+}
+
+.adam{
+    background-color: white; 
+    width: 140px;
+    color: black;
+    padding:20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 8px 10px 19px 1px rgba(189, 189, 189, 0.59);
+    display: flex;
+    flex-direction: column;
+}
+
+.daisy{
+    background-color: white; 
+    width: 140px;
+    color: black;
+    padding:20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 8px 10px 19px 1px rgba(189, 189, 189, 0.59);
+    display: flex;
+    flex-direction: column;
+}
+
+.john{
+    background-color: white; 
+    width: 140px;
+    color: black;
+    padding:20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 8px 10px 19px 1px rgba(189, 189, 189, 0.59);
+    display: flex;
+    flex-direction: column;
+}
+
+.oscar{
+    background-color: white; 
+    width: 140px;
+    color: black;
+    padding:20px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 8px 10px 19px 1px rgba(189, 189, 189, 0.59);
+    display: flex;
+    flex-direction: column;
+}
+
+.castImage{
+width: 138px;
+height: 175px;
+}
+
+.topBilledCast{
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+}
+
+.cast{
+ margin-top: 40px;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+}
+
+p{margin-top: 5px;}
+h2{margin-bottom: 0px;}
+h4{margin-bottom: 0px;}
